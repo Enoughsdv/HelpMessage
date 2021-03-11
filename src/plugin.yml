@@ -1,0 +1,10 @@
+name: HelpMessage
+author: Enoughdv
+main: com.enough.helpmessage.HelpMessage
+version: 1.0
+softdepend: [PlaceholderAPI]
+commands:
+    help:
+        description: show help the server
+        usage: /help
+        aliases: [information, informacion, ayuda]

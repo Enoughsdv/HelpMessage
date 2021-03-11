@@ -1,0 +1,20 @@
+Messages:
+    - "&7&m-------------------------------------------------"
+    - "&eWelcome <player_name> to server"
+    - "&b/rules &7- &fRead Rules"
+    - "&b/spawn &7- &fGo to spawn"
+    - "&b/msg <player> &7- &fSend Message a player"
+    - "&r"
+    - "&eInformation to Server:"
+    - "&bWeb: &fwww.server.com"
+    - "&bStore: &fstore.server.com"
+    - "&bDiscord: &fdiscord.gg/server"
+    - "&r"
+    - "&b&oserver.ip"
+    - "&7&m-------------------------------------------------"
+
+Console_sender: "&cCommand available for players"
+
+#               Variable:
+#   <player_name> get name the player
+# Plugin compatible with PlaceHolderAPI
